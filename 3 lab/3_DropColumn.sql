@@ -1,0 +1,1 @@
+ALTER Table STUDENT DROP Column Дата_поступления;
